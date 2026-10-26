@@ -1,0 +1,11 @@
+TREINO EM CASA — PREMIUM V7
+
+Inclui os 14 links do YouTube enviados pelo usuario, nos 16 blocos de exercicios de segunda, terca, quinta e sexta.
+
+Mudancas de treino: polichinelo com salto (opcao sem salto), abdominal bicicleta, prancha com elevacao alternada de pernas.
+
+Os videos sao incorporados do YouTube, exigem internet e podem ter anuncios, restricoes de incorporacao ou nao reproduzir automaticamente. Nao sao recortados ou hospedados no aplicativo.
+
+Para atualizar o GitHub, envie apenas os 6 arquivos index.html, sw.js, manifest.webmanifest, icon.svg, icon-192.png e icon-512.png.
+
+O historico de treinos permanece no armazenamento local do navegador. Antes de atualizar, exporte um backup na aba Progresso.
